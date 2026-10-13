@@ -166,7 +166,6 @@ Projeto web com foco em estrutura e estilização de páginas.
 
 <br/><br/>
 
-<code>OBRIGADO POR VISITAR MEU PERFIL</code>
 
 <br/><br/>
 
